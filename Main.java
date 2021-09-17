@@ -34,5 +34,6 @@ public class Main {
         System.out.println(num9/num10);
         System.out.println(num9*num10);
         System.out.println(num1+num10);
+        System.out.println(num2+num8);
     }
 }
