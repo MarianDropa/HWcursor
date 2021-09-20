@@ -1,3 +1,4 @@
+
 package org.cursor;
 
 public class Main {
@@ -13,27 +14,27 @@ public class Main {
         float num8 = 2.001501F;
         double num9 = 520.16161651;
         double num10 = 250.51654166;
-        System.out.println(num1+num2);
-        System.out.println(num1-num2);
-        System.out.println(num1/num2);
-        System.out.println(num1*num2);
-        System.out.println(num3+num4);
-        System.out.println(num3-num4);
-        System.out.println(num3/num4);
-        System.out.println(num3*num4);
-        System.out.println(num5+num6);
-        System.out.println(num5-num6);
-        System.out.println(num5/num6);
-        System.out.println(num5*num6);
-        System.out.println(num7+num8);
-        System.out.println(num7-num8);
-        System.out.println(num7/num8);
-        System.out.println(num7*num8);
-        System.out.println(num9+num10);
-        System.out.println(num9-num10);
-        System.out.println(num9/num10);
-        System.out.println(num9*num10);
-        System.out.println(num1+num10);
-        System.out.println(num2+num8);
+        System.out.println(num1 + num2);
+        System.out.println(num1 - num2);
+        System.out.println(num1 / num2);
+        System.out.println(num1 * num2);
+        System.out.println(num3 + num4);
+        System.out.println(num3 - num4);
+        System.out.println(num3 / num4);
+        System.out.println(num3 * num4);
+        System.out.println(num5 + num6);
+        System.out.println(num5 - num6);
+        System.out.println(num5 / num6);
+        System.out.println(num5 * num6);
+        System.out.println(num7 + num8);
+        System.out.println(num7 - num8);
+        System.out.println(num7 / num8);
+        System.out.println(num7 * num8);
+        System.out.println(num9 + num10);
+        System.out.println(num9 - num10);
+        System.out.println(num9 / num10);
+        System.out.println(num9 * num10);
+        System.out.println(num1 + num10);
+        System.out.println(num2 + num8);
     }
 }
